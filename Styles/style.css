@@ -1,3 +1,21 @@
-h1{
-    color: red;
+*{
+    margin: 0;
+    padding: 0;
 }
+.hero{
+    background-image: url('../Images/photo-1567879656049-f2265f23d8f8.avif');
+    background-size: cover;
+    background-position: bottom center;
+    height: 100vh;
+}
+
+.hero h1{
+    font-size: 100px;
+    color: rgb(90, 90, 90);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    word-spacing: 0px;
+    letter-spacing: 10px;
+    padding-top: 20px;
+}
+
